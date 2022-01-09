@@ -18,3 +18,6 @@ This project is MERN stack project most emphasis on education.This is an Team pr
 
 ### technology used
 ReactJs, NodeJs, MongoDB, Express, Material-UI, Redux, SwiperJs, React rating, React hook form etc.
+
+### Live Site 
+(https://team-education-site.netlify.app/)
